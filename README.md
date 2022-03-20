@@ -7,9 +7,9 @@ https://github.com/chongshengB/rt-n56u
 https://github.com/padavanonly/rt-n56u  
 https://github.com/immortalwrt/padavan
 
-固件默认wifi名称sunnygu及sunnygu_5G  
+固件默认wifi名称snow及snow_5G  
 wifi密码1234567890  
-默认管理地址192.168.8.1  
+默认管理地址192.168.1.5  
 默认管理账号密码都是admin 
   
 特点：
