@@ -1,4 +1,4 @@
-叉自keke1023，感谢keke前期的努力整合。  
+叉自sunnyguhz，在此基础上修改了MI-MINI的内核配置，添加了802.11kvr的支持。
 以下附上keke和其他五位大神的源码地址供参考：
 https://github.com/vb1980/Padavan-KVR  
 https://github.com/keke1023/Padavan  
